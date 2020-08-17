@@ -1,18 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 007",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "message": "Website not connecting to server - 00048",
+      "attention": true,
+      "tech": "Sam smith",
+      "date": "2020-08-17T09:07:44.265Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "fix hard drive on workstation 023",
-      "attention": true,
-      "date": "08-14-2019 11:20:9",
-      "tech": "Ayman S"
+      "message": "UI update required for Home page ",
+      "attention": false,
+      "tech": "Ayman A",
+      "date": "2020-08-17T09:09:03.725Z",
+      "id": 2
+    },
+    {
+      "message": " Login function throws an error -08755",
+      "attention": false,
+      "tech": "Sam smith",
+      "date": "2020-08-17T09:09:56.538Z",
+      "id": 3
     }
   ],
   "techs": [
