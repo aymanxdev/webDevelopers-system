@@ -8,18 +8,25 @@
       "id": 1
     },
     {
-      "message": "UI update required for Home page ",
-      "attention": false,
-      "tech": "Ayman A",
-      "date": "2020-08-17T09:09:03.725Z",
-      "id": 2
-    },
-    {
-      "message": " Login function throws an error -08755",
+      "id": 2,
+      "message": "UI update required for Home page  (not mobile responsive)",
       "attention": false,
       "tech": "Sam smith",
-      "date": "2020-08-17T09:09:56.538Z",
-      "id": 3
+      "date": "2020-08-17T14:38:24.279Z"
+    },
+    {
+      "id": 3,
+      "message": " Login function throws an error -08755",
+      "attention": false,
+      "tech": "Ayman A",
+      "date": "2020-08-17T14:38:44.658Z"
+    },
+    {
+      "id": 4,
+      "message": "New log Update",
+      "attention": true,
+      "tech": "Sam smith",
+      "date": "2020-08-17T14:37:58.652Z"
     }
   ],
   "techs": [
@@ -37,6 +44,11 @@
       "firstName": "Sara",
       "lastName": "Wilson",
       "id": 3
+    },
+    {
+      "firstName": "Steve",
+      "lastName": "Wilson",
+      "id": 4
     }
   ]
 }
