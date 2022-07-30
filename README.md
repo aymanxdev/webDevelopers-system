@@ -1,6 +1,5 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
